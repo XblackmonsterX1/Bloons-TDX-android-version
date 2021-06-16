@@ -1,0 +1,22 @@
+hit_id = noone;
+
+ppbuff = 0;
+camodetect = 1;
+leaddetect = 1;
+level = 0;
+LP = 1;
+PP = 300;
+range = 2000;
+maxthorns = 360;
+alarm[2]=30
+active = 0;
+ability = 0;
+alarm[0]=90
+alarm[1]=15
+leadpop = 1;
+camopop = 1;
+armourpop = 0;
+shellpop = 0;
+shieldpop = -1;
+targeting_mode=0
+alarm[0] = 300000000

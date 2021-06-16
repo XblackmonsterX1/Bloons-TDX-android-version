@@ -1,0 +1,1 @@
+action_another_room(Agents_and_other_goods);

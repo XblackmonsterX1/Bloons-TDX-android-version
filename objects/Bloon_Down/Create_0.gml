@@ -1,0 +1,2 @@
+global.bloonpanel = 0
+

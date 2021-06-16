@@ -1,0 +1,1 @@
+action_another_room(Time_Challenge_3_Room);

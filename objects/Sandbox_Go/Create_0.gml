@@ -1,0 +1,17 @@
+global.autostart = 0;
+action_create_object(auto_start_button, 944, 544);
+global.cashinflate = 0;
+global.freeplay = 0;
+global.cashflow = 0;
+afterwave = -1;
+global.cashwavereward = 0;
+global.bpower = 1 + (global.strongerbloons / 4);
+global.bspeed = 1 + (global.fasterbloons / 4);
+shiftpress = 0;
+global.wave = 1;
+global.wavenow = 0;
+global.cycle = 0;
+global.money = 75000000;
+global.endsequence = 0;
+global.life = 99999;
+global.points = 0;

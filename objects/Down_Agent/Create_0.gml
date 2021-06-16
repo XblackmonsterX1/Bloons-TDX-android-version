@@ -1,0 +1,1 @@
+global.totalpan = 0;

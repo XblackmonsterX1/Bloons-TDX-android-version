@@ -1,0 +1,1 @@
+attackrate = 1;

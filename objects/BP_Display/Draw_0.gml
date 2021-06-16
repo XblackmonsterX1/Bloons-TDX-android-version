@@ -1,0 +1,13 @@
+action_color(0);
+action_font(font0, 0);
+action_draw_sprite(BP_Icon_Spr, 700, 500, -1);
+action_draw_variable(global.BP, 740, 548);
+action_draw_sprite(MM_Icon_Spr, 775, 500, -1);
+action_draw_variable(global.monkeymoney, 810, 548);
+action_draw_sprite(Evil_Bloon_Soul_Icon_Spr, 850, 500, -1);
+action_draw_variable(global.bsouls, 895, 548);
+action_draw_sprite(Trophy_Icon_Spr, 920, 500, -1);
+action_draw_variable(global.trophies, 970, 548);
+action_color(16777215);
+action_draw_text("Rank:", 870, 10);
+action_draw_variable(global.rank, 930, 10);

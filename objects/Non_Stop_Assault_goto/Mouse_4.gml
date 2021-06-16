@@ -1,0 +1,1 @@
+action_another_room(Non_Stop_Assault);

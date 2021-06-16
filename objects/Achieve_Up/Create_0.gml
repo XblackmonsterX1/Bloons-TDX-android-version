@@ -1,0 +1,3 @@
+global.achievepanel = 0
+
+

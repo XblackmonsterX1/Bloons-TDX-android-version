@@ -1,0 +1,25 @@
+glue = 0;
+freeze = 0;
+shielded = 0;
+bigbloon = 0;
+electric = 1;
+stun = 0;
+distraction = 0;
+corrosion = 0;
+radiation = 0;
+normal = 0;
+camo = 0;
+lead = 0;
+regrow = 0;
+action_set_alarm(random(180), 0);
+action_sprite_set(Red_Bloon_Spr, 0, 0);
+path = 0;
+scr_Bloon_Paths();
+
+maxshield = 0;
+shield = 0;
+bloonmaxlayer = 0;
+bloonlayer = 0;
+range = 100;
+tattered = 0;
+fast = 1.5;

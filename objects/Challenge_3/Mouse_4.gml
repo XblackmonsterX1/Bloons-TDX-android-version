@@ -1,0 +1,1 @@
+action_another_room(Challenge_3_Room);

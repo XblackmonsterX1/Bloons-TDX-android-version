@@ -1,0 +1,1 @@
+global.freeplay = 0;

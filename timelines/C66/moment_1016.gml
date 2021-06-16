@@ -1,0 +1,12 @@
+with (BloonSpawn) {
+var inst;
+inst = instance_create(x, y, Shielded_Bloon_Branch);
+with (inst)
+   {
+   maxshield = 25;
+   shield = 25;
+   bloonmaxlayer = 18;
+   bloonlayer = 18;
+   }
+
+}

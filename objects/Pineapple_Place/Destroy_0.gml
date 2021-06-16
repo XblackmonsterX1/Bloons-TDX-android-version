@@ -1,0 +1,2 @@
+global.money -= 30;
+

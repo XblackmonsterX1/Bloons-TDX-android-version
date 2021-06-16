@@ -1,0 +1,2 @@
+spike = random(12)
+

@@ -1,0 +1,171 @@
+{
+  "bboxMode": 2,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 290,
+  "bbox_right": 345,
+  "bbox_top": 5,
+  "bbox_bottom": 60,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 384,
+  "height": 256,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"451834a6-fe56-4921-84b4-850204264afc","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"451834a6-fe56-4921-84b4-850204264afc","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"451834a6-fe56-4921-84b4-850204264afc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"230e3485-4b65-4993-99fa-5ac9d3c23935","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"230e3485-4b65-4993-99fa-5ac9d3c23935","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"230e3485-4b65-4993-99fa-5ac9d3c23935","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0dd0650c-ad1d-4630-96f5-ea37182e597a","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0dd0650c-ad1d-4630-96f5-ea37182e597a","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"0dd0650c-ad1d-4630-96f5-ea37182e597a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"93a37008-3567-478b-8ca4-397743e65a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"93a37008-3567-478b-8ca4-397743e65a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"93a37008-3567-478b-8ca4-397743e65a70","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"45589cfc-1808-40a8-a3ed-2da93d000ac9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"45589cfc-1808-40a8-a3ed-2da93d000ac9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"45589cfc-1808-40a8-a3ed-2da93d000ac9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2add7796-3aff-4f2e-a510-0cf79bc2f1f1","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2add7796-3aff-4f2e-a510-0cf79bc2f1f1","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"2add7796-3aff-4f2e-a510-0cf79bc2f1f1","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02d0f4d0-4de2-4bce-86a0-77251337a4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02d0f4d0-4de2-4bce-86a0-77251337a4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"02d0f4d0-4de2-4bce-86a0-77251337a4c9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"787e4205-f4c8-4c0c-9fa7-3c65a9176a0d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"787e4205-f4c8-4c0c-9fa7-3c65a9176a0d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"787e4205-f4c8-4c0c-9fa7-3c65a9176a0d","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5e2b4173-23e0-4b5b-9b04-44a822efc28e","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5e2b4173-23e0-4b5b-9b04-44a822efc28e","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"5e2b4173-23e0-4b5b-9b04-44a822efc28e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1678f7f7-41a1-4d02-89d0-2fc4de78aee8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1678f7f7-41a1-4d02-89d0-2fc4de78aee8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"1678f7f7-41a1-4d02-89d0-2fc4de78aee8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5fcfee6e-507d-4806-b6cb-34b62effb4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5fcfee6e-507d-4806-b6cb-34b62effb4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"5fcfee6e-507d-4806-b6cb-34b62effb4c9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"029982da-2b24-4416-872a-63bde2237a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"029982da-2b24-4416-872a-63bde2237a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"029982da-2b24-4416-872a-63bde2237a70","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"50b683ed-b6d1-4b06-802b-ddc8fe398ac7","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"50b683ed-b6d1-4b06-802b-ddc8fe398ac7","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"50b683ed-b6d1-4b06-802b-ddc8fe398ac7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"009415bd-0166-430b-8b7e-76b103025fb8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"009415bd-0166-430b-8b7e-76b103025fb8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"009415bd-0166-430b-8b7e-76b103025fb8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"928d80d9-9ca7-45d9-a903-f80e62165852","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"928d80d9-9ca7-45d9-a903-f80e62165852","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"928d80d9-9ca7-45d9-a903-f80e62165852","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"093e6472-0fd3-415a-a549-6e6e6cf83c89","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"093e6472-0fd3-415a-a549-6e6e6cf83c89","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"093e6472-0fd3-415a-a549-6e6e6cf83c89","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"09bd58cd-41e3-4f05-817e-7245fc3c6225","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"09bd58cd-41e3-4f05-817e-7245fc3c6225","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"09bd58cd-41e3-4f05-817e-7245fc3c6225","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c81d80c5-5f2d-4a5e-bbf0-99a674e3c675","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c81d80c5-5f2d-4a5e-bbf0-99a674e3c675","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"c81d80c5-5f2d-4a5e-bbf0-99a674e3c675","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"146a8712-82f1-41bf-91f5-ce07d74d5722","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"146a8712-82f1-41bf-91f5-ce07d74d5722","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"146a8712-82f1-41bf-91f5-ce07d74d5722","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"37ed2a15-4eb6-4fee-9698-e64dc04265c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"37ed2a15-4eb6-4fee-9698-e64dc04265c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"37ed2a15-4eb6-4fee-9698-e64dc04265c9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7198afba-181b-43e1-833a-e867694a6062","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7198afba-181b-43e1-833a-e867694a6062","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"7198afba-181b-43e1-833a-e867694a6062","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"82c655e8-e50a-4a31-9c27-8f78cc0e8551","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"82c655e8-e50a-4a31-9c27-8f78cc0e8551","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"82c655e8-e50a-4a31-9c27-8f78cc0e8551","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"919d85d8-b9df-4076-9fbd-a7972771392b","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"919d85d8-b9df-4076-9fbd-a7972771392b","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"919d85d8-b9df-4076-9fbd-a7972771392b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc0198c9-c81c-4cf9-bb03-1d0b384c0808","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc0198c9-c81c-4cf9-bb03-1d0b384c0808","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"LayerId":{"name":"5e72379f-0153-4f74-9f76-8f2be794677d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","name":"dc0198c9-c81c-4cf9-bb03-1d0b384c0808","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 1.0,
+    "playbackSpeedType": 1,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 24.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"94124366-738b-4ed7-b47b-4e30d8217973","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"451834a6-fe56-4921-84b4-850204264afc","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a2130ccb-f0b7-4e75-9312-13da1e2001ba","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"230e3485-4b65-4993-99fa-5ac9d3c23935","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c368e775-cb0d-4166-a9d7-f3496657049f","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0dd0650c-ad1d-4630-96f5-ea37182e597a","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c5c19f6d-9cf7-4380-ac4e-47452113f7a4","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"93a37008-3567-478b-8ca4-397743e65a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9e7c2a08-d5cb-44c2-87c1-25e7ffe70d77","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"45589cfc-1808-40a8-a3ed-2da93d000ac9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fcc4afe1-538c-435f-aa40-61b477b9f3d1","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2add7796-3aff-4f2e-a510-0cf79bc2f1f1","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"84ee7fb4-c349-4efc-9aff-2200e29ccb3f","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02d0f4d0-4de2-4bce-86a0-77251337a4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a5faa774-fb6b-4e50-b41e-0eab8fc6ec9b","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"787e4205-f4c8-4c0c-9fa7-3c65a9176a0d","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"55e611b9-a8fd-4fdf-9861-df1949cfb5e0","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5e2b4173-23e0-4b5b-9b04-44a822efc28e","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9d787e4c-dba4-4ee4-a5fe-b592504a5213","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1678f7f7-41a1-4d02-89d0-2fc4de78aee8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bd2ea321-2e4a-4475-9bed-645ee4d97f07","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5fcfee6e-507d-4806-b6cb-34b62effb4c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6fa026ce-7410-4f41-ac28-4848b7e03769","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"029982da-2b24-4416-872a-63bde2237a70","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"511abff3-86e9-41b3-b2af-6ae8f7f7d3e3","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"50b683ed-b6d1-4b06-802b-ddc8fe398ac7","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a181a059-581c-4ec5-931f-0f3384df5052","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"009415bd-0166-430b-8b7e-76b103025fb8","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"af4e7456-40a3-4dc8-ad02-30993a792f11","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"928d80d9-9ca7-45d9-a903-f80e62165852","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1012f9a0-660d-4271-b17f-92f84758637f","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"093e6472-0fd3-415a-a549-6e6e6cf83c89","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3207ec93-740c-4fe4-8fa6-bd9a6066f407","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"09bd58cd-41e3-4f05-817e-7245fc3c6225","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d4c985a5-cc59-4293-945f-7fcdad77ed1d","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c81d80c5-5f2d-4a5e-bbf0-99a674e3c675","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bec8d2dd-6348-48b5-82cd-216c3f8d2f1e","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"146a8712-82f1-41bf-91f5-ce07d74d5722","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6374c074-7e57-47ad-8e5a-cb67a873f3ff","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"37ed2a15-4eb6-4fee-9698-e64dc04265c9","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d2eadaf4-1c2a-40bb-8d14-7728d523654d","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7198afba-181b-43e1-833a-e867694a6062","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e7676e03-11b7-4ca3-8241-d12b82bf4b86","Key":21.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"82c655e8-e50a-4a31-9c27-8f78cc0e8551","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2fc2d5f4-93f2-44f7-a208-d0a93deb4302","Key":22.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"919d85d8-b9df-4076-9fbd-a7972771392b","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"04158442-277d-4368-8120-afdef5cc6d4d","Key":23.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc0198c9-c81c-4cf9-bb03-1d0b384c0808","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": null,
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 192,
+    "yorigin": 128,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"Milestones_Panels","path":"sprites/Milestones_Panels/Milestones_Panels.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5e72379f-0153-4f74-9f76-8f2be794677d","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "nineSlice": null,
+  "parent": {
+    "name": "Panels",
+    "path": "folders/Sprites/Panels.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "Milestones_Panels",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

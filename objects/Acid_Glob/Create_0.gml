@@ -1,0 +1,16 @@
+gluepotency = 2;
+corrosionpotency = 4;
+image_angle=direction;
+image_xscale = 1.5;
+image_yscale = 1.5;
+
+shellpop = 2;
+hit_id = noone;
+
+LP = 1;
+PP = 1;
+leadpop = 0;
+camopop = 0;
+range = 0;
+shieldpop = -0.25;
+armourpop = 2;

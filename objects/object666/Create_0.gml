@@ -1,0 +1,12 @@
+global.cashflow = 1;
+afterwave = -1;
+global.cashwavereward = 0;
+global.bpower = 1;
+global.bspeed = 1;
+shiftpress = 0;
+global.wave = 1;
+global.wavenow = 0;
+global.cycle = 0;
+global.money = global.wealthiness * 150;
+global.endsequence = 0;
+global.life = global.healthiness * 20;
